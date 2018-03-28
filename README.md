@@ -1,6 +1,7 @@
 # OpenCV-AMS-using-Multi-Face-Detection
 Attendance Management System using Face Recognition
 This project is made using OpenCV v3.3.1 and uses CSV to store the recorded faces to mark attendance.
+
 Requirements:
   Python 2.7
   OpenCV 3.0+
