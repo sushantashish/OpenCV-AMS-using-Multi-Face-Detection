@@ -3,10 +3,10 @@ Attendance Management System using Face Recognition
 This project is made using OpenCV v3.3.1 and uses CSV to store the recorded faces to mark attendance.
 
 Requirements:
-  Python 2.7
-  OpenCV 3.0+
-  SQLite
-  (Other prerequisites should be present in the OpenCV installation requirements)
+  1. Python 2.7
+  2. OpenCV 3.0+
+  3. SQLite
+      (Other prerequisites should be present in the OpenCV installation requirements)
   
   File Description:
   1. datasetcreate.py- Creates an entry in a database and captures pictures of users in DataSet folder
